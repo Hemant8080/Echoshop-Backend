@@ -19,8 +19,8 @@ app.use(
       // List of allowed origins
       const allowedOrigins = [
         process.env.FRONTEND_URL,
-        'https://ecoshop.silk.vercel.app',
-        'https://ecoshop-silk.vercel.app',
+        'https://echoshop-silk.vercel.app' ,
+        'https://echoshop-silk.vercel.app',
         'http://localhost:5173',
         'http://localhost:3000'
       ];
